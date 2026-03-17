@@ -1,4 +1,4 @@
-[sentinel1_raw.tif](https://github.com/user-attachments/files/26070360/sentinel1_raw.tif)# OSINT Fusion Intelligence System
+# OSINT Fusion Intelligence System
 
 A production-style OSINT intelligence platform that combines satellite imagery, news intelligence, and AI forecasting to generate verified intelligence reports.
 
