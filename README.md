@@ -11,7 +11,8 @@ This system fuses three sources of intelligence:
 • AI-based event classification and forecasting  
 
 The platform generates structured intelligence reports with explicit uncertainty and verification recommendations.
-[sentinel1_raw.tif](https://github.com/user-attachments/files/26070361/sentinel1_raw.tif)
+<img width="507" height="504" alt="s2" src="https://github.com/user-attachments/assets/59cfe108-b2a0-4441-9f20-fcf112f216b6" />
+
 <img width="512" height="512" alt="s1_viz" src="https://github.com/user-attachments/assets/1ddc83ed-f65a-4e0c-aca3-9f1a8f42d9c2" />
 
 ---
